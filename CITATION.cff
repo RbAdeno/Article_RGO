@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "Comparative Transcriptomic Analysis of the Effect of an AKT inhibitor in Ductal Adenocarcinoma Cell Lines revealed Pharmacoresistance Mechanisms"
+message: "If you use this repository or its data, please cite the associated manuscript as below."
+type: dataset
+authors:
+  - family-names: "González-Ortiz"
+    given-names: "Rebeca"
+    affiliation: "Unidad Universitaria de Secuenciación Masiva y Bioinformática, Instituto de Biotecnología, UNAM, Cuernavaca, Mexico"
+  - family-names: "Vega-Alvarado"
+    given-names: "Leticia"
+    affiliation: "Instituto de Ciencias Aplicadas y Tecnología, UNAM, Ciudad de México, Mexico"
+  - family-names: "Jiménez-Jacinto"
+    given-names: "Verónica"
+    affiliation: "Unidad Universitaria de Secuenciación Masiva y Bioinformática, Instituto de Biotecnología, UNAM, Cuernavaca, Mexico"
+  - family-names: "Espinosa"
+    given-names: "Magali"
+    affiliation: "Laboratorio de Genómica Funcional del Cáncer, INMEGEN, Ciudad de México, Mexico"
+  - family-names: "Hernández-Montes"
+    given-names: "Georgina"
+    affiliation: "Unidad Universitaria de Secuenciación Masiva y Bioinformática, Instituto de Biotecnología, UNAM, Cuernavaca, Mexico"
+  - family-names: "Melendez-Zajgla"
+    given-names: "Jorge"
+    affiliation: "Laboratorio de Genómica Funcional del Cáncer, INMEGEN, Ciudad de México, Mexico"
+  - family-names: "Sanchez-Flores"
+    given-names: "Alejandro"
+    affiliation: "Unidad Universitaria de Secuenciación Masiva y Bioinformática, Instituto de Biotecnología, UNAM, Cuernavaca, Mexico"
+repository-code: "https://github.com/RbAdeno/Article_RGO"
+abstract: >
+  This repository contains the datasets, analysis results, and supporting files
+  associated with the comparative transcriptomic analysis of LNCaP and BxPC-3
+  ductal adenocarcinoma cell lines treated with the AKT inhibitor AZD5363.
+  The study identifies differential expression patterns and potential mechanisms
+  of pharmacoresistance in response to targeted therapy.
+keywords:
+  - RNA-Seq
+  - Transcriptomics
+  - AKT inhibitor
+  - Pharmacoresistance
+  - Ductal Adenocarcinoma
+  - Differential Expression
+license: Apache-2.0
